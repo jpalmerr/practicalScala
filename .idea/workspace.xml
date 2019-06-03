@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c32375b0-d427-44d8-bcd0-50e3bcd4abc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/worksheets/Traits.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/worksheets/Traits/Traits.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,37 +27,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/FunctionalProgramming/functionsAndMethods.sc">
+        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Lists.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cashflow/Cashflow.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/FunctionalProgramming/partialFunction.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="579">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/Traits.sc">
+        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Maps.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -96,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/cashflow/Cashflow.scala" />
         <option value="$PROJECT_DIR$/src/worksheets/FunctionalProgramming/partialFunction.sc" />
         <option value="$PROJECT_DIR$/src/worksheets/Traits.sc" />
+        <option value="$PROJECT_DIR$/src/worksheets/Collections/Lists.sc" />
+        <option value="$PROJECT_DIR$/src/worksheets/Collections/Maps.sc" />
       </list>
     </option>
   </component>
@@ -158,6 +143,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="worksheets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PracticalScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticalScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="worksheets" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/worksheets/Traits" />
       <recent name="$PROJECT_DIR$/src/worksheets/Lesson1" />
     </key>
   </component>
@@ -301,12 +294,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559304478457</updated>
-      <workItem from="1559304481972" duration="17283000" />
+      <workItem from="1559304481972" duration="20645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17283000" />
+    <option name="totallyTimeSpent" value="20645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -443,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/worksheets/FunctionalProgramming/functionsAndMethods.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/worksheets/ScalaOO/constructingObjects.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -464,6 +450,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/FunctionalProgramming/functionsAndMethods.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/worksheets/FunctionalProgramming/partialFunction.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -471,10 +464,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/worksheets/Traits.sc">
+    <entry file="file://$PROJECT_DIR$/src/worksheets/Traits/Traits.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Generics.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Lists.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Maps.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
