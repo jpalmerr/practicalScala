@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32375b0-d427-44d8-bcd0-50e3bcd4abc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/worksheets/Collections/Maps.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/worksheets/Collections/Maps.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,37 +26,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Lists.sc">
+        <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/options.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/Maps.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/workingWithMaps.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="44" />
+            <state relative-caret-position="510">
+              <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/forComprehensions.sc">
+        <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/Try.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/exception.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -100,6 +94,10 @@
         <option value="$PROJECT_DIR$/src/worksheets/Collections/Maps.sc" />
         <option value="$PROJECT_DIR$/src/worksheets/Collections/workingWithMaps.sc" />
         <option value="$PROJECT_DIR$/src/worksheets/Collections/forComprehensions.sc" />
+        <option value="$PROJECT_DIR$/src/worksheets/NullsAndExceptions/null.md" />
+        <option value="$PROJECT_DIR$/src/worksheets/NullsAndExceptions/exception.md" />
+        <option value="$PROJECT_DIR$/src/worksheets/NullsAndExceptions/options.sc" />
+        <option value="$PROJECT_DIR$/src/worksheets/NullsAndExceptions/Try.sc" />
       </list>
     </option>
   </component>
@@ -167,7 +165,7 @@
               <item name="PracticalScala" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="worksheets" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="NullsAndExceptions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,12 +311,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559304478457</updated>
-      <workItem from="1559304481972" duration="24366000" />
+      <workItem from="1559304481972" duration="26298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24366000" />
+    <option name="totallyTimeSpent" value="26298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -523,8 +521,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/worksheets/Collections/forComprehensions.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="510">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/null.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/exception.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/options.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worksheets/NullsAndExceptions/Try.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
